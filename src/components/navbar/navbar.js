@@ -1,11 +1,12 @@
 export default {
     name: 'Navbar',
     components: {},
-    props: [],
+    props: {
+        transparent: Boolean,
+        colorOnScroll: Number
+    },
     data() {
-        return {
-
-        }
+        return {}
     },
     computed: {
 
