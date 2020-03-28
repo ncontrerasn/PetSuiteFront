@@ -6,7 +6,7 @@ export default {
     data() {
         return {
             pictures: ["https://images.pexels.com/photos/551628/pexels-photo-551628.jpeg",
-                "https://images.pexels.com/photos/825947/pexels-photo-825947.jpeg",
+                "https://images.pexels.com/photos/1485637/pexels-photo-1485637.jpeg",
                 "https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg"
             ]
         }
