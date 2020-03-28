@@ -36,11 +36,8 @@ export default {
                 this.show = true
             })
         }
-    }
-}
-}
-},
-computed: {
+    },
+    computed: {
 
     },
     mounted() {
